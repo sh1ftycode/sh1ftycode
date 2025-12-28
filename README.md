@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Josiah or Sh1ftyCode
 
-<!--
-**SireGeek/siregeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Python developer** with **2 years of experience** building automation scripts, applications, and command-line interface (CLI) tools. I also have hands-on experience with **Ubuntu/Linux servers** and **Docker-based automation**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Expertise
+
+- **Programming & Automation**
+  - Python scripting and automation
+  - Command-line interface (CLI) tools
+  - API integration and data handling
+  - File system automation
+- **Server & Deployment**
+  - Ubuntu/Linux server setup and management
+  - Docker container deployment and automation
+  - Basic backend service management
+- **Development Practices**
+  - Modular and maintainable code
+  - Debugging and problem-solving
+  - Efficient and scalable Python solutions
+
+---
+
+## 💻 Projects & Examples
+
+Here are some examples of what I work on:
+
+- **Automation Scripts:** Python scripts to automate repetitive tasks or server workflows.
+- **CLI Tools:** Command-line utilities for managing files, data, or server tasks.
+- **Server Automation:** Docker containers and Ubuntu server setups for self-hosted applications.
+- **Python Applications:** Small to medium apps with backend logic and API integration.
+
+*(You can add links to your actual repos here for each project.)*
+
+---
+
+## 📫 Contact Information
+
+- Discord: sh1ftyqb
+- Email: middletonjosiah9@gmail.com
+---
+
+## ⚡ Fun Fact
+
+I love building tools that **save time and make tasks easier**, whether it’s automating my own projects or managing servers efficiently.
+
