@@ -32,7 +32,7 @@ Here are some examples of what I work on:
 - **Server Automation:** Docker containers and Ubuntu server setups for self-hosted applications.
 - **Python Applications:** Small to medium apps with backend logic and API integration.
 
-*[Minecraft-Server-Creator]([https://github.com/sh1ftycode/Minecraft-Server-Maker)*
+*[[Minecraft-Server-Creator]([https://github.com/sh1ftycode/Minecraft-Server-Maker)]([https://github.com/sh1ftycode/Minecraft-Server-Maker))*
 
 ---
 
