@@ -28,10 +28,11 @@ Here are some examples of what I work on:
 
 - **Automation Scripts:** Python scripts to automate repetitive tasks or server workflows.
 - **CLI Tools:** Command-line utilities for managing files, data, or server tasks.
+- **GUI Tools:** User Interface utilities for tasks of anyones choice.
 - **Server Automation:** Docker containers and Ubuntu server setups for self-hosted applications.
 - **Python Applications:** Small to medium apps with backend logic and API integration.
 
-*(You can add links to your actual repos here for each project.)*
+*[https://github.com/sh1ftycode/Minecraft-Server-Maker](Minecraft-Server-Creator)*
 
 ---
 
