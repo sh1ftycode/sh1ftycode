@@ -1,6 +1,6 @@
 # Hi, I'm Josiah or Sh1ftyCode
 
-I’m a **Python developer** with **2 years of experience** building automation scripts, applications, and command-line interface (CLI) tools. I also have hands-on experience with **Ubuntu/Linux servers** and **Docker-based automation**.
+I’m a **Python developer** with **1 year of experience** building automation scripts, applications, and command-line interface (CLI) tools. I also have hands-on experience with **Ubuntu/Linux servers** and **Docker-based automation**.
 
 ---
 
