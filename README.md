@@ -24,7 +24,7 @@ I’m a **Python developer** with *2 years of experience** building automation s
 
 ## 💻 Projects & Examples
 
-  - I have none yet...
+  - (ShiftyTool)[https://github.com/sh1ftycode/ShiftyTool]: This tool is for streamers and generates a stream key for tiktok streamers with streamlabs API!
 
 ---
 
